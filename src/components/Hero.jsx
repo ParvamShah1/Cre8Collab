@@ -14,7 +14,7 @@ const Hero = () => {
             Launch impactful campaigns with authentic creators. Get matched with influencers who align with your brand values and reach your target audience effectively.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
-            <Link to="/signup">
+            <Link to="/brand-onboard">
               <button className="px-8 py-4 bg-white hover:bg-neutral-200 text-black rounded-full text-lg font-semibold transition-all duration-300 transform hover:scale-105">
                 I'm a Brand
               </button>
