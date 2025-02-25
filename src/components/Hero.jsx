@@ -19,7 +19,7 @@ const Hero = () => {
                 I'm a Brand
               </button>
             </Link>
-            <Link to="/signup">
+            <Link to="/influencer-onboard">
               <button className="px-8 py-4 border-2 border-white hover:bg-white hover:text-black rounded-full text-lg font-semibold transition-all duration-300 transform hover:scale-105">
                 I'm an Influencer
               </button>

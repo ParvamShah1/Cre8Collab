@@ -1,8 +1,35 @@
-# React + Vite
+# Cre8Collab
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cre8Collab is a platform that connects micro-influencers with small businesses, allowing brands to find influencers and collaborate on promotional campaigns.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these steps to set up and run the project locally.
+
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/Cre8Collab.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd Cre8Collab
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+
+### Running the Project
+
+To start the development server, run:
+```sh
+npm run dev
+```
+
+
+
+
+
