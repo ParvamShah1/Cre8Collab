@@ -58,7 +58,7 @@ function App() {
     <div 
       className="min-h-screen bg-black flex items-center justify-center p-4 relative overflow-hidden"
       style={{
-        backgroundImage: 'url(/src/assets/register_cover.jpg)',
+        backgroundImage: 'url(/register_cover.jpg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         filter: 'brightness(1.3)'
