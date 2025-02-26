@@ -33,7 +33,7 @@ const Navbar = () => {
                 <a href="#statistics" className="hover:text-gray-300 px-3 py-2 text-sm font-medium transition-colors duration-200">Statistics</a>
               )}
               <Link 
-                to="/signin" 
+                to="/register" 
                 className="bg-white hover:bg-neutral-200 text-black px-4 py-2 rounded-lg text-sm font-medium transition-colors duration-200"
               >
                 Join Now
@@ -71,7 +71,7 @@ const Navbar = () => {
             <a href="#statistics" className="block hover:text-gray-300 px-3 py-2 text-base font-medium transition-colors duration-200">Statistics</a>
           )}
           <Link 
-            to="/signin" 
+            to="/register" 
             className="block mt-2 w-full bg-white hover:bg-neutral-200 text-black px-4 py-2 rounded-lg text-sm font-medium text-center transition-colors duration-200"
           >
             Join Now

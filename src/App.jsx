@@ -2,6 +2,7 @@ import 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import Home from './pages/Home';
+import Register from './pages/Register'
 import BrandDashboard from './pages/BrandDashboard';
 import InfluencerDashboard from './pages/InfluencerDashboard';
 import BrandOnboarding from './pages/BrandOnboarding';
@@ -11,6 +12,7 @@ function App() {
     <Router>
       <div className="App">
         <Routes>
+          <Route path="/register" element={<Register />} />
           <Route path="/brand/dashboard" element={<BrandDashboard />} />
           <Route path="/influencer/dashboard" element={<InfluencerDashboard />} />
           <Route path="/" element={<Home />} />
