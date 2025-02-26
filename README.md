@@ -11,7 +11,7 @@ Follow these steps to set up and run the project locally.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Cre8Collab.git
+   git clone https://github.com/ParvamShah1/Cre8Collab.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -28,6 +28,11 @@ To start the development server, run:
 ```sh
 npm run dev
 ```
+
+### Register for testing :
+
+Phone No. +91 9649615589
+OTP : 1234
 
 
 
