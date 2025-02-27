@@ -29,10 +29,7 @@ To start the development server, run:
 npm run dev
 ```
 
-### Register for testing :
-
-Phone No. +91 9649615589
-OTP : 1234
+### Thank YOU ❤️
 
 
 
