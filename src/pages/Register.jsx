@@ -89,9 +89,9 @@ function App() {
       console.log('Phone verification successful!');
       
       if (utype === 'influencer') {
-        navigate('/influencer/dashboard');
+        navigate('/influencer-onboard');
       } else if (utype === 'business') {
-        navigate('/brand/dashboard');
+        navigate('/brand-onboard');
       }
     } catch (error) {
       console.log("Error verifying code:", error);
